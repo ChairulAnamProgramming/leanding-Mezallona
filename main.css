@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(90deg, #0D174D 50%, #ffffff 50%);
+  height: 100vh;
+}
+body .nav-item {
+  letter-spacing: 2px;
+}
+
+/*# sourceMappingURL=main.css.map */
